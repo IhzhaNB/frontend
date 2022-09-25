@@ -1,0 +1,52 @@
+* {
+    text-decoration: none;
+    background-color: #F8EDE3;
+}
+
+body {
+    font-family: 'Open Sans',sans-serif;
+}
+
+section {
+    margin: auto;
+    margin-bottom: 0px;
+}
+
+.kolom {
+    margin-top: 50px;
+    margin-bottom: 50px;    
+
+}
+
+.kolom .deskripsi {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'comic sans ms';
+    color: #7D6E83;
+}
+
+.kolom .sekolah {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'arial';
+}
+
+h2 {
+    font-family: 'comic sans ms';
+    font-weight: 800;
+    font-size: 45px;
+    margin-bottom: 20px;
+    color: #7D6E83;
+    width: 100%;
+    line-height: 50px;
+}
+
+h3 {
+    font-family: 'comic sans ms';
+    font-weight: 800;
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #7D6E83;
+    width: 100%;
+    line-height: 50px;
+}
